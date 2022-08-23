@@ -1,0 +1,2 @@
+# DOMINATING-FOLDING
+DOMINATING FOLDING of a string of length n
